@@ -19,3 +19,9 @@ response 404로 바꼇다!
 ## webhook URL에 아이디와 비밀번호를 추가해줬다
 
 jenkins의 token을 넣어줬는데 필요한가,,?싶지만
+
+
+
+## build trigger 수정
+
+GitHub hook trigger for GITScm polling 체크박스 추가
