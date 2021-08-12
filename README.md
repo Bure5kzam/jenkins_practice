@@ -30,3 +30,5 @@ GitHub hook trigger for GITScm polling 체크박스 추가
 
 ## ssh-keygen 공개키를 deploy에 추가
 
+## jenkins-plugin git-integration 추가
+
