@@ -37,3 +37,5 @@ GitHub hook trigger for GITScm polling 체크박스 추가
 ## http://i5a109.p.ssafy.io:8000/github-webhook
 
 ## http://i5a109.p.ssafy.io:8000/github-webhook/
+
+github webhook에서 에러는 안난다.
