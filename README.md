@@ -32,3 +32,5 @@ GitHub hook trigger for GITScm polling 체크박스 추가
 
 ## jenkins-plugin git-integration 추가
 
+## webhook 프로젝트 URL 변경
+
