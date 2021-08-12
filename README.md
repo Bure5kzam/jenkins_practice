@@ -34,3 +34,5 @@ GitHub hook trigger for GITScm polling 체크박스 추가
 
 ## webhook 프로젝트 URL 변경
 
+## http://i5a109.p.ssafy.io:8000/github-webhook
+
