@@ -46,4 +46,6 @@ github webhook에서 에러는 안난다.
 
 제발,,
 
-? 왜됨?
+? 왜됨? 
+
+## branch main 추가해주니까됨?
