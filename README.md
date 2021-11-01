@@ -38,16 +38,3 @@ GitHub hook trigger for GITScm polling 체크박스 추가
 
 ## http://i5a109.p.ssafy.io:8000/github-webhook/
 
-github webhook에서 에러는 안난다.
-
-아니 왜,,,
-
-## id pw쌍
-
-제발,,
-
-? 왜됨? 
-
-## branch main 추가해주니까됨?
-
-아니근데 다른 파이프라인은 왜안돼
